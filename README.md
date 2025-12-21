@@ -4,9 +4,10 @@
 
 <h3 align="left">👋 Olá! Sou Matteus Takeshi Dias, bacharel em Ciência da Computação pela Universidade Federal de São Carlos (UFSCar) e técnico em Informática pelo Colégio Técnico Industrial de Bauru. Gosto de aprender e explorar novas tecnologias.</h3>
 
-<br>###
+###
 
 <div align="center">
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
