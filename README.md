@@ -2,7 +2,7 @@
 
 **`Engenheiro de Dados`**
 
-<h4 align="left">👋 Olá! Sou Matteus Takeshi Dias, bacharel em Ciência da Computação pela UFSCar e técnico em Informática pelo Colégio Técnico Industrial de Bauru. Gosto de aprender e explorar novas tecnologias.</h2>
+<h3 align="left">👋 Olá! Sou Matteus Takeshi Dias, bacharel em Ciência da Computação pela UFSCar e técnico em Informática pelo Colégio Técnico Industrial de Bauru. Gosto de aprender e explorar novas tecnologias.</h3>
 
 ###
 
