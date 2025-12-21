@@ -1,7 +1,7 @@
 ## 🤖 Matteus Takeshi Dias
 
 ---
-<h4 align="left">👋 Olá! Sou Matteus Takeshi Dias, bacharel em Ciência da Computação pela Universidade Federal de São Carlos (UFSCar) e técnico em Informática pelo Colégio Técnico Industrial da UNESP em Bauru. Gosto de aprender e explorar novas tecnologias.</h4>
+<h4 align="left">👋 Olá! Sou Matteus Takeshi Dias, bacharel em Ciência da Computação pela Universidade Federal de São Carlos (UFSCar) e técnico em Informática pelo Colégio Técnico Industrial da UNESP em Bauru. Busco constantemente aprender novas tecnologias e aprofundar meu entendimento técnico.</h4>
 
 ###
 
