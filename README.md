@@ -1,6 +1,6 @@
 # 🤖 Matteus Takeshi Dias
 
-**`Data Engineer`**
+**`Engenheiro de Dados`**
 
 <h2 align="left">👋 Olá! Sou Matteus Takeshi Dias, bacharel em Ciência da Computação pela UFSCar e técnico em Informática pelo Colégio Técnico Industrial de Bauru. Gosto de aprender e explorar novas tecnologias.</h2>
 
