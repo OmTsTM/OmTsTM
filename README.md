@@ -2,7 +2,7 @@
 
 **`Data Engineer`**
 
-<h2 align="left">👋 Hi! I’m Matteus Takeshi Dias, a Computer Science graduate from UFSCar and a Technical Degree holder in Information Technology from the Industrial Technical College in Brazil. I enjoy learning and exploring new technologies.</h2>
+<h2 align="left">👋 Olá! Sou Matteus Takeshi Dias, bacharel em Ciência da Computação pela UFSCar e técnico em Informática pelo Colégio Técnico Industrial de Bauru. Gosto de aprender e explorar novas tecnologias.</h2>
 
 ###
 
@@ -33,22 +33,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmTsTM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=OmTsTM&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmTsTM/OmTsTM/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmTsTM/OmTsTM/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OmTsTM/OmTsTM/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
