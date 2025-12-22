@@ -1,7 +1,7 @@
 ## 🤖 Matteus Takeshi Dias
 
 ---
-<h4 align="left">👋 Hi! I'm Matteus Takeshi Dias, a Bachelor's degree holder in Ciência da Computação from Universidade Federal de São Carlos (UFSCar) and a technical graduate in Informática from Colégio Técnico Industrial da UNESP in Bauru. I'm constantly seeking to learn new technologies and deepen my technical understanding.</h4>
+<h4 align="left">👋 Hello, my name is Matteus Takeshi Dias. I hold a Bachelor’s degree in Computer Science from Universidade Federal de São Carlos (UFSCar) and a Technical Degree in Information Technology from Colégio Técnico Industrial — UNESP. I'm continuously seeking to learn new technologies and to further deepen my technical knowledge and professional expertise.</h4>
 
 ###
 
