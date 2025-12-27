@@ -36,7 +36,7 @@
 
 ---
 
-### 📈 Estatísticas
+### 📈 Statistics
 
 <p>
   <img 
